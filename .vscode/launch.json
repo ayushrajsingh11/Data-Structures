@@ -1,0 +1,448 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - generateNoWithFiveAndSix",
+            "request": "launch",
+            "mainClass": "ques.generateNoWithFiveAndSix",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - reversingQueue",
+            "request": "launch",
+            "mainClass": "ques.reversingQueue",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - implemngStacksUsingQueues",
+            "request": "launch",
+            "mainClass": "ques.implemngStacksUsingQueues",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - linkedListImpletation",
+            "request": "launch",
+            "mainClass": "ques.linkedListImpletation",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balancedString",
+            "request": "launch",
+            "mainClass": "stacks.balancedString",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - file1",
+            "request": "launch",
+            "mainClass": "ques.file1",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dbly1",
+            "request": "launch",
+            "mainClass": "dbly.dbly1",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mergeTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "New_folder.mergeTwoSortedArrays",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cloneWithRandomPointer",
+            "request": "launch",
+            "mainClass": "New_folder.cloneWithRandomPointer",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - intrsectionPoint",
+            "request": "launch",
+            "mainClass": "New_folder.intrsectionPoint",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - evenOddSegeration",
+            "request": "launch",
+            "mainClass": "New_folder.evenOddSegeration",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loopDetectionAndRemoval",
+            "request": "launch",
+            "mainClass": "New_folder.loopDetectionAndRemoval",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - floyadLoopDetection",
+            "request": "launch",
+            "mainClass": "New_folder.floyadLoopDetection",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DetectLoopWithTempNode",
+            "request": "launch",
+            "mainClass": "New_folder.DetectLoopWithTempNode",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - revrseOfSizeK",
+            "request": "launch",
+            "mainClass": "New_folder.revrseOfSizeK",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertionDeletionSingle",
+            "request": "launch",
+            "mainClass": "New_folder.insertionDeletionSingle",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - revUsingRec",
+            "request": "launch",
+            "mainClass": "New_folder.revUsingRec",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - revIterative",
+            "request": "launch",
+            "mainClass": "New_folder.revIterative",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - revUsingArray",
+            "request": "launch",
+            "mainClass": "New_folder.revUsingArray",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwopointerNthNodeFrom_End",
+            "request": "launch",
+            "mainClass": "New_folder.TwopointerNthNodeFrom_End",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - nthNodeFromEnd",
+            "request": "launch",
+            "mainClass": "New_folder.nthNodeFromEnd",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - middleFastSlow",
+            "request": "launch",
+            "mainClass": "New_folder.middleFastSlow",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - middleOfList",
+            "request": "launch",
+            "mainClass": "New_folder.middleOfList",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertionBe",
+            "request": "launch",
+            "mainClass": "New_folder.insertionBe",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - kk",
+            "request": "launch",
+            "mainClass": "New_folder.kk",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryRec",
+            "request": "launch",
+            "mainClass": "searching.BinaryRec",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertionBe",
+            "request": "launch",
+            "mainClass": "linked.insertionBe",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertionBe",
+            "request": "launch",
+            "mainClass": "insertionBe",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertEND",
+            "request": "launch",
+            "mainClass": "insertEND",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertEND",
+            "request": "launch",
+            "mainClass": "linked_list.insertEND",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertionBe",
+            "request": "launch",
+            "mainClass": "linked_list.insertionBe",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Radix",
+            "request": "launch",
+            "mainClass": "sorting.Radix",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountingSort2",
+            "request": "launch",
+            "mainClass": "sorting.CountingSort2",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountingSort",
+            "request": "launch",
+            "mainClass": "sorting.CountingSort",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sortArrayWithTwoTypesO",
+            "request": "launch",
+            "mainClass": "sorting.sortArrayWithTwoTypesO",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sortArrayWithTwoTypes",
+            "request": "launch",
+            "mainClass": "sorting.sortArrayWithTwoTypes",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - qsort",
+            "request": "launch",
+            "mainClass": "sorting.qsort",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inversions",
+            "request": "launch",
+            "mainClass": "sorting.Inversions",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CommonValuesOfArray",
+            "request": "launch",
+            "mainClass": "sorting.CommonValuesOfArray",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mergeSort",
+            "request": "launch",
+            "mainClass": "sorting.mergeSort",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - allEvenAndOdd",
+            "request": "launch",
+            "mainClass": "sorting.allEvenAndOdd",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - allEvenAndOdd",
+            "request": "launch",
+            "mainClass": "allEvenAndOdd",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindPeakElement",
+            "request": "launch",
+            "mainClass": "FindPeakElement",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - binarySortedRotatedArray",
+            "request": "launch",
+            "mainClass": "binarySortedRotatedArray",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - occurances_in_sorted_array",
+            "request": "launch",
+            "mainClass": "occurances_in_sorted_array",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - occuOfFirstBinary",
+            "request": "launch",
+            "mainClass": "occuOfFirstBinary",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryRec",
+            "request": "launch",
+            "mainClass": "BinaryRec",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - binarySearch",
+            "request": "launch",
+            "mainClass": "searching.binarySearch",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bnoacchi",
+            "request": "launch",
+            "mainClass": "bnoacchi",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SlidingWindowTech",
+            "request": "launch",
+            "mainClass": "SlidingWindowTech",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FlipConsecFlip",
+            "request": "launch",
+            "mainClass": "FlipConsecFlip",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MajorityElement",
+            "request": "launch",
+            "mainClass": "MajorityElement",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlternateEvenOdd",
+            "request": "launch",
+            "mainClass": "AlternateEvenOdd",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxSumSubAraay",
+            "request": "launch",
+            "mainClass": "maxSumSubAraay",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - consecutive1",
+            "request": "launch",
+            "mainClass": "consecutive1",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - setBit",
+            "request": "launch",
+            "mainClass": "setBit",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RainWater",
+            "request": "launch",
+            "mainClass": "RainWater",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rotate",
+            "request": "launch",
+            "mainClass": "Rotate",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hanoi",
+            "request": "launch",
+            "mainClass": "Hanoi",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<java_281d1fcc>",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_281d1fcc"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Recu1<java_281d1fcc>",
+            "request": "launch",
+            "mainClass": "Recu1",
+            "projectName": "java_281d1fcc"
+        }
+    ]
+}
